@@ -69,6 +69,7 @@ namespace NP6.Test
             C58468455.AddCompte(C68468444);
             C58468455.AddCompte(C44884484);
 
+
             int i = 1;
             ///ouverture de la connection.
             ///création de la chaine de connexion
