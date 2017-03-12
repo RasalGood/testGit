@@ -1,0 +1,10 @@
+C:\DEVELOPPEMENT\Project-Banque\obj\x86\Debug\NP6.Test.Properties.Resources.resources
+C:\DEVELOPPEMENT\Project-Banque\obj\x86\Debug\NP6.Test.csproj.GenerateResource.Cache
+C:\DEVELOPPEMENT\Project-Banque\bin\Debug\NP6.Test.exe.config
+C:\DEVELOPPEMENT\Project-Banque\bin\Debug\NP6.Test.exe
+C:\DEVELOPPEMENT\Project-Banque\bin\Debug\NP6.Test.pdb
+C:\DEVELOPPEMENT\Project-Banque\obj\x86\Debug\NP6.Test.exe
+C:\DEVELOPPEMENT\Project-Banque\obj\x86\Debug\NP6.Test.pdb
+C:\DEVELOPPEMENT\testGit\bin\Debug\NP6.Test.exe.config
+C:\DEVELOPPEMENT\testGit\obj\x86\Debug\NP6.Test.exe
+C:\DEVELOPPEMENT\testGit\obj\x86\Debug\NP6.Test.pdb

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NP6.Test.Operations.ApplicationDecouvert">
+    <Position X="2.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations\ApplicationDecouvert.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NP6.Test.Operations.Retrait">
+    <Position X="6.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAgAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations\Retrait.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NP6.Test.Operations.Depot">
+    <Position X="4.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEggAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations\Depot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NP6.Test.Operations.ApplicationRemuneration">
+    <Position X="9" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations\ApplicationRemuneration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NP6.Test.Operations.Virement">
+    <Position X="11.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAgAgAAAAAAAAAAAAAAAAAAAAkAA=</HashCode>
+      <FileName>Operations\Virement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NP6.Test.Operations.Operation">
+    <Position X="6.25" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operations\Operations.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
